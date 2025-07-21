@@ -1,6 +1,7 @@
 ## League of Legends Champion Similarity Recommendation System
 
- This project uses the K-Nearest Neighbors (KNN) algorithm to find similarities between League of Legends champions. A recommendation system has been created based on the champions' statistics, roles, and other  attributes.
+ This project uses the K-Nearest Neighbors (KNN) algorithm to find similarities between League of Legends champions. A recommendation system has been created based on the champions' statistics, roles,
+ and other  attributes.
 
 # Features
 
