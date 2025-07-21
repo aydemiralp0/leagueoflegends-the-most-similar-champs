@@ -19,16 +19,3 @@ pip install pandas numpy sklearn matplotlib
 
 # Download the dataset: Kaggle LoL Champion Data
 link = https://www.kaggle.com/datasets/laurenainsleyhaines/patch-25-11-league-of-legends-champion-data-2025
-
- Usage
- print(find_similar_champions('Zed'))
-
-# Example Output
-
- Similar champions for Irelia:
-     apiname  herotype                     role
- 72    LeeSin   Fighter                {'Diver'}
- 5    Ambessa   Fighter  {'Skirmisher', 'Diver'}
- 2      Akali  Assassin             {'Assassin'}
- 121     Shen      Tank               {'Warden'}
- 65    Kennen      Mage           {'Specialist'}
